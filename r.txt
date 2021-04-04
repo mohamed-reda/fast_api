@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+
+
+pip install -r r.txt
